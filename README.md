@@ -1,5 +1,8 @@
 # Committee-of-Zero-patch-torrents
 Just a simple list of all the torrents for the Committee of Zero patches, all magnet links are in the readme and I will try my best to update with every new patch
+
+**Magnet Links**
+
 Anonymous;Code v1.01: magnet:?xt=urn:btih:c4e627369f7cc234574c89a187b2c002b185eda6&dn=ACSteamPatch-v1.0.1-Setup.zip
 
 Chaos;Child GOG v2.1.0: magnet:?xt=urn:btih:e4662f24063c09976c3e459258ece7abaebc53b1&dn=CCGOGPatch-v2.1.0-Setup.zip
