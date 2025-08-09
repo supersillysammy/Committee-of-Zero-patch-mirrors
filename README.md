@@ -1,6 +1,9 @@
 # Committee-of-Zero-patch-torrents
 Just a simple list of all the torrents for the Committee of Zero patches, will update with every new patch
 
+Hashes in the hashes document
+
+
 **Magnet Links**
 
 Anonymous;Code v1.01: magnet:?xt=urn:btih:c4e627369f7cc234574c89a187b2c002b185eda6&dn=ACSteamPatch-v1.0.1-Setup.zip
