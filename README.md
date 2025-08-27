@@ -1,7 +1,14 @@
 # Committee-of-Zero-patch-torrents
-Just a simple list of all the torrents I've created for the Committee of Zero patches, will update with every new patch
+Just a simple list of all the mirrors I've created for the Committee of Zero patches, will update with every new patch
 
 Hashes in the hashes document
+
+
+
+**Google Drive Link**
+
+https://drive.google.com/drive/folders/1SQISiuIEcpRbwVcTSw-8GpAA0EvXWWws?usp=sharing
+
 
 
 **Magnet Links**
