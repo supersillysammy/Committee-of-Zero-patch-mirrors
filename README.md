@@ -1,5 +1,5 @@
 # Committee-of-Zero-patch-torrents
-Just a simple list of all the mirrors I've created for the Committee of Zero patches, will update with every new patch
+Just a simple list of all the mirrors I've created for the Committee of Zero patches.
 
 Source for patches: https://sonome.dareno.me/projects/
 
