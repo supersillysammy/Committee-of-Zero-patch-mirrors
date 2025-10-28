@@ -21,15 +21,15 @@ Chaos;Child GOG v2.1.0: magnet:?xt=urn:btih:e4662f24063c09976c3e459258ece7abaebc
 
 Chaos;Child Steam v2.1.0: magnet:?xt=urn:btih:37822cc5d01c2fb8026a64f68ecdd03bfcf21beb&dn=CCSteamPatch-v2.1.0-Setup.zip
 
-Chaos;Head Noah GOG v1.1.2: magnet:?xt=urn:btih:7b209116a652412d8d56f1735e150598923d3d76&dn=CHNGOGPatch-v1.1.2-Setup.7z
+Chaos;Head Noah GOG v1.1.3: magnet:?xt=urn:btih:ae8ad2d6cace97822b04853b901fe92ace1a89ba&dn=CHNGOGPatch-v1.1.3-Setup.7z
 
-Chaos;Head Noah Steam v1.1.2: magnet:?xt=urn:btih:565e5c12a82cbf5d1def7315a72374ea4d9721ba&dn=CHNSteamPatch-v1.1.2-Setup.7z
+Chaos;Head Noah Steam v1.1.3: magnet:?xt=urn:btih:ba3dcccc4674bd04748cd7d20318a0582830ff77&dn=CHNSteamPatch-v1.1.3-Setup.7z
 
-Chaos;Head Noah EU Switch v1.1.2: magnet:?xt=urn:btih:345f1f34ba27f83f185b9ac574f3c87d2dc2b8ad&dn=CHNSwitchEUPatch-v1.1.2-Setup.zip
+Chaos;Head Noah EU Switch v1.1.3: magnet:?xt=urn:btih:2b8d60212d7abd6b691349ed5bdc635f25433ea4&dn=CHNSwitchEUPatch-v1.1.3-Setup.zip
 
-Chaos;Head Noah JP Switch v1.1.2: magnet:?xt=urn:btih:9d977e70ebf5d145647f1792d092f0a8d31d099f&dn=CHNSwitchJPPatch-v1.1.2-Setup.zip
+Chaos;Head Noah JP Switch v1.1.3: magnet:?xt=urn:btih:38fb827ecd24011b99388953d4976f699542f713&dn=CHNSwitchJPPatch-v1.1.3-Setup.zip
 
-Chaos;Head Noah US Switch v1.1.2: magnet:?xt=urn:btih:20545085da773941445d67ab5708efca026abaea&dn=CHNSwitchUSPatch-v1.1.2-Setup.zip
+Chaos;Head Noah US Switch v1.1.3: magnet:?xt=urn:btih:bf680fb6f4b23fe894a2fc5a35c5f2f7fb6bdbde&dn=CHNSwitchUSPatch-v1.1.3-Setup.zip
 
 Robotics;Notes DaSH v1.1.0: magnet:?xt=urn:btih:0d180e34d741e0dd1f61d6276ac8304441769377&dn=RNDPatch-v1.1.0-Setup.zip
 
